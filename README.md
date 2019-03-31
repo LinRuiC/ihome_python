@@ -1,6 +1,6 @@
 # ihome_python  
 flask搭建一个租房网站  
-数据库：mysql， 缓存数据库：redis 框架：flask 页面：html,css,JavaScript,ajax  
+数据库：mysql， 缓存数据库：redis， 框架：flask ，页面：html,css,JavaScript,ajax  
   
 config.py:配置文件，数据用户名密码等 manage.py:作为项目启动文件，在开发过程中，进行调试  
   
